@@ -1,0 +1,5 @@
+// string to intiger 
+int n=stoi(s->string);
+
+//intiger to string
+string s=to_string(n->intiger number);
