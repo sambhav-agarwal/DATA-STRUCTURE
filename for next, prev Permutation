@@ -1,0 +1,5 @@
+# DATA-STRUCTURE
+// for next permutation 
+ next_permutation(nums.begin(),nums.end());
+ // for prev permutation
+ prev_permutation(nums.begin(),nums.end());
