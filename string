@@ -1,0 +1,7 @@
+       // check for alphabets
+        if (isalpha(str[i]) != 0)
+            alphabet++;
+ 
+        // check for decimal digits
+        else if (isdigit(str[i]) != 0)
+            number++;
