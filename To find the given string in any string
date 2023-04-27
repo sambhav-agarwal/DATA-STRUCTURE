@@ -1,0 +1,2 @@
+//it help To find the string in any given string ,wheather it is in the string or not
+if(s.find(B)!=string::npos)
